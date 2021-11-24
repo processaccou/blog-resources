@@ -1,0 +1,2 @@
+# images
+jsDeliver CDN
